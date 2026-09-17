@@ -6,7 +6,7 @@ The software generates two-dimensional computational meshes and characteristic-l
 
 | Item | Information |
 | --- | --- |
-| Version | 1.0.0 (initial release) |
+| Version | 0.1.0 (initial release) |
 | Release date | 2026-09-17 |
 | Author | CaoWei |
 | Development group | ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University |

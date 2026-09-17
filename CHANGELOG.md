@@ -2,7 +2,7 @@
 
 All notable changes to SMRT are documented here.
 
-## [1.0.0] — 2026-09-17
+## [0.1.0] — 2026-09-17
 
 Initial open-source release.
 

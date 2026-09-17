@@ -8,7 +8,7 @@ abstract: >-
   and hexagonal pin-cell geometries with structured and automatic mesh modes.
   SMRT does not include the neutron transport solver itself.
 type: software
-version: "1.0.0"
+version: "0.1.0"
 date-released: 2026-09-17
 authors:
   - name: "CaoWei"

@@ -26,6 +26,6 @@ def printLOGO():
     print('  % %%%%%%%   %%%%%   %%%%%%%%%%%%    %%%    %%%%%%%%      ')
     print('  ---------------------------------------------------------')
     print('                Simple MOC Ray-Tracing code                ')
-    print('                     Version: 0.1-dev')
+    print('                     Version: 0.1.0')
     print('                   Copyright: ZouHang')
     print('')
