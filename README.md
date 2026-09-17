@@ -104,6 +104,18 @@ The model step generates a `.msh` mesh and an `.svg` visualization. The tracking
 
 The `.trk` files included with the current examples have been successfully read by ALPHA.
 
+## Example mesh visualizations
+
+The following figures are generated directly from the four public test cases. Click a figure to open the corresponding example directory.
+
+| HexPin — Structured | HexPin — Automatic |
+| --- | --- |
+| [<img src="examples/HexPinStructured/HexPin.svg" alt="HexPin structured mesh" width="360">](examples/HexPinStructured/) | [<img src="examples/HexPinAutomatic/HexPin.svg" alt="HexPin automatic mesh" width="360">](examples/HexPinAutomatic/) |
+
+| RectPin — Structured | RectPin — Automatic |
+| --- | --- |
+| [<img src="examples/RectPinStructured/RectPin.svg" alt="RectPin structured mesh" width="360">](examples/RectPinStructured/) | [<img src="examples/RectPinAutomatic/RectPin.svg" alt="RectPin automatic mesh" width="360">](examples/RectPinAutomatic/) |
+
 ## Input and output formats
 
 - `.msh`: native Gmsh mesh file containing mesh-format information, physical groups, nodes, elements, and—depending on the MSH version—geometry/topology metadata.
