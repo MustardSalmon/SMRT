@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="504pt" viewBox="0 0 504 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-17T16:52:26.828876</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 504 504 
+L 504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 52.7 462.04 
+L 489.3 462.04 
+L 489.3 25.44 
+L 52.7 25.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 211.503844 303.236156 
+L 186.85973 327.88027 
+L 211.503844 346.790365 
+L 228.929865 316.607612 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 228.929865 316.607612 
+L 211.503844 346.790365 
+L 240.202524 358.677747 
+L 249.222896 325.01326 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 249.222896 325.01326 
+L 240.202524 358.677747 
+L 271 362.732312 
+L 271 327.88027 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 271 327.88027 
+L 271 362.732312 
+L 301.797476 358.677747 
+L 292.777104 325.01326 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 292.777104 325.01326 
+L 301.797476 358.677747 
+L 330.496156 346.790365 
+L 313.070135 316.607612 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 313.070135 316.607612 
+L 330.496156 346.790365 
+L 355.14027 327.88027 
+L 330.496156 303.236156 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 330.496156 303.236156 
+L 355.14027 327.88027 
+L 374.050365 303.236156 
+L 343.867612 285.810135 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 343.867612 285.810135 
+L 374.050365 303.236156 
+L 385.937747 274.537476 
+L 352.27326 265.517104 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 352.27326 265.517104 
+L 385.937747 274.537476 
+L 389.992312 243.74 
+L 355.14027 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 355.14027 243.74 
+L 389.992312 243.74 
+L 385.937747 212.942524 
+L 352.27326 221.962896 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 352.27326 221.962896 
+L 385.937747 212.942524 
+L 374.050365 184.243844 
+L 343.867612 201.669865 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 343.867612 201.669865 
+L 374.050365 184.243844 
+L 355.14027 159.59973 
+L 330.496156 184.243844 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 330.496156 184.243844 
+L 355.14027 159.59973 
+L 330.496156 140.689635 
+L 313.070135 170.872388 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 313.070135 170.872388 
+L 330.496156 140.689635 
+L 301.797476 128.802253 
+L 292.777104 162.46674 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 292.777104 162.46674 
+L 301.797476 128.802253 
+L 271 124.747688 
+L 271 159.59973 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 271 159.59973 
+L 271 124.747688 
+L 240.202524 128.802253 
+L 249.222896 162.46674 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 249.222896 162.46674 
+L 240.202524 128.802253 
+L 211.503844 140.689635 
+L 228.929865 170.872388 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 228.929865 170.872388 
+L 211.503844 140.689635 
+L 186.85973 159.59973 
+L 211.503844 184.243844 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 211.503844 184.243844 
+L 186.85973 159.59973 
+L 167.949635 184.243844 
+L 198.132388 201.669865 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 198.132388 201.669865 
+L 167.949635 184.243844 
+L 156.062253 212.942524 
+L 189.72674 221.962896 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 189.72674 221.962896 
+L 156.062253 212.942524 
+L 152.007688 243.74 
+L 186.85973 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 186.85973 243.74 
+L 152.007688 243.74 
+L 156.062253 274.537476 
+L 189.72674 265.517104 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 189.72674 265.517104 
+L 156.062253 274.537476 
+L 167.949635 303.236156 
+L 198.132388 285.810135 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 198.132388 285.810135 
+L 167.949635 303.236156 
+L 186.85973 327.88027 
+L 211.503844 303.236156 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 186.85973 327.88027 
+L 167.949635 346.790365 
+L 198.132388 369.950406 
+L 211.503844 346.790365 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 211.503844 346.790365 
+L 198.132388 369.950406 
+L 233.280949 384.509416 
+L 240.202524 358.677747 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 240.202524 358.677747 
+L 233.280949 384.509416 
+L 271 389.475223 
+L 271 362.732312 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 271 362.732312 
+L 271 389.475223 
+L 308.719051 384.509416 
+L 301.797476 358.677747 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 301.797476 358.677747 
+L 308.719051 384.509416 
+L 343.867612 369.950406 
+L 330.496156 346.790365 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 330.496156 346.790365 
+L 343.867612 369.950406 
+L 374.050365 346.790365 
+L 355.14027 327.88027 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 355.14027 327.88027 
+L 374.050365 346.790365 
+L 397.210406 316.607612 
+L 374.050365 303.236156 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 374.050365 303.236156 
+L 397.210406 316.607612 
+L 411.769416 281.459051 
+L 385.937747 274.537476 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 385.937747 274.537476 
+L 411.769416 281.459051 
+L 416.735223 243.74 
+L 389.992312 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 389.992312 243.74 
+L 416.735223 243.74 
+L 411.769416 206.020949 
+L 385.937747 212.942524 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 385.937747 212.942524 
+L 411.769416 206.020949 
+L 397.210406 170.872388 
+L 374.050365 184.243844 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 374.050365 184.243844 
+L 397.210406 170.872388 
+L 374.050365 140.689635 
+L 355.14027 159.59973 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 355.14027 159.59973 
+L 374.050365 140.689635 
+L 343.867612 117.529594 
+L 330.496156 140.689635 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 330.496156 140.689635 
+L 343.867612 117.529594 
+L 308.719051 102.970584 
+L 301.797476 128.802253 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 301.797476 128.802253 
+L 308.719051 102.970584 
+L 271 98.004777 
+L 271 124.747688 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 271 124.747688 
+L 271 98.004777 
+L 233.280949 102.970584 
+L 240.202524 128.802253 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 240.202524 128.802253 
+L 233.280949 102.970584 
+L 198.132388 117.529594 
+L 211.503844 140.689635 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 211.503844 140.689635 
+L 198.132388 117.529594 
+L 167.949635 140.689635 
+L 186.85973 159.59973 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 186.85973 159.59973 
+L 167.949635 140.689635 
+L 144.789594 170.872388 
+L 167.949635 184.243844 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 167.949635 184.243844 
+L 144.789594 170.872388 
+L 130.230584 206.020949 
+L 156.062253 212.942524 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 156.062253 212.942524 
+L 130.230584 206.020949 
+L 125.264777 243.74 
+L 152.007688 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 152.007688 243.74 
+L 125.264777 243.74 
+L 130.230584 281.459051 
+L 156.062253 274.537476 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 156.062253 274.537476 
+L 130.230584 281.459051 
+L 144.789594 316.607612 
+L 167.949635 303.236156 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 167.949635 303.236156 
+L 144.789594 316.607612 
+L 167.949635 346.790365 
+L 186.85973 327.88027 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 167.949635 346.790365 
+L 150.027833 364.712167 
+L 185.45976 391.900041 
+L 198.132388 369.950406 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 198.132388 369.950406 
+L 185.45976 391.900041 
+L 226.721114 408.991054 
+L 233.280949 384.509416 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 233.280949 384.509416 
+L 226.721114 408.991054 
+L 271 414.82048 
+L 271 389.475223 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 271 389.475223 
+L 271 414.82048 
+L 315.278886 408.991054 
+L 308.719051 384.509416 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 308.719051 384.509416 
+L 315.278886 408.991054 
+L 356.54024 391.900041 
+L 343.867612 369.950406 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 343.867612 369.950406 
+L 356.54024 391.900041 
+L 391.972167 364.712167 
+L 374.050365 346.790365 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 374.050365 346.790365 
+L 391.972167 364.712167 
+L 419.160041 329.28024 
+L 397.210406 316.607612 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 397.210406 316.607612 
+L 419.160041 329.28024 
+L 436.251054 288.018886 
+L 411.769416 281.459051 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 411.769416 281.459051 
+L 436.251054 288.018886 
+L 442.08048 243.74 
+L 416.735223 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 416.735223 243.74 
+L 442.08048 243.74 
+L 436.251054 199.461114 
+L 411.769416 206.020949 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 411.769416 206.020949 
+L 436.251054 199.461114 
+L 419.160041 158.19976 
+L 397.210406 170.872388 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 397.210406 170.872388 
+L 419.160041 158.19976 
+L 391.972167 122.767833 
+L 374.050365 140.689635 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 374.050365 140.689635 
+L 391.972167 122.767833 
+L 356.54024 95.579959 
+L 343.867612 117.529594 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 343.867612 117.529594 
+L 356.54024 95.579959 
+L 315.278886 78.488946 
+L 308.719051 102.970584 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 308.719051 102.970584 
+L 315.278886 78.488946 
+L 271 72.65952 
+L 271 98.004777 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 271 98.004777 
+L 271 72.65952 
+L 226.721114 78.488946 
+L 233.280949 102.970584 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 233.280949 102.970584 
+L 226.721114 78.488946 
+L 185.45976 95.579959 
+L 198.132388 117.529594 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 198.132388 117.529594 
+L 185.45976 95.579959 
+L 150.027833 122.767833 
+L 167.949635 140.689635 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 167.949635 140.689635 
+L 150.027833 122.767833 
+L 122.839959 158.19976 
+L 144.789594 170.872388 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 144.789594 170.872388 
+L 122.839959 158.19976 
+L 105.748946 199.461114 
+L 130.230584 206.020949 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 130.230584 206.020949 
+L 105.748946 199.461114 
+L 99.91952 243.74 
+L 125.264777 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 125.264777 243.74 
+L 99.91952 243.74 
+L 105.748946 288.018886 
+L 130.230584 281.459051 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 130.230584 281.459051 
+L 105.748946 288.018886 
+L 122.839959 329.28024 
+L 144.789594 316.607612 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_74">
+    <path d="M 144.789594 316.607612 
+L 122.839959 329.28024 
+L 150.027833 364.712167 
+L 167.949635 346.790365 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffb8d1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_75">
+    <path d="M 150.027833 364.712167 
+L 111.286644 403.453356 
+L 162.078365 417.047293 
+L 185.45976 391.900041 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_76">
+    <path d="M 185.45976 391.900041 
+L 162.078365 417.047293 
+L 215.784799 425.5928 
+L 226.721114 408.991054 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_77">
+    <path d="M 226.721114 408.991054 
+L 215.784799 425.5928 
+L 271 428.507513 
+L 271 414.82048 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_78">
+    <path d="M 271 414.82048 
+L 271 428.507513 
+L 326.215201 425.5928 
+L 315.278886 408.991054 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_79">
+    <path d="M 315.278886 408.991054 
+L 326.215201 425.5928 
+L 379.921635 417.047293 
+L 356.54024 391.900041 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_80">
+    <path d="M 356.54024 391.900041 
+L 379.921635 417.047293 
+L 430.713356 403.453356 
+L 391.972167 364.712167 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_81">
+    <path d="M 391.972167 364.712167 
+L 430.713356 403.453356 
+L 444.307293 352.661635 
+L 419.160041 329.28024 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_82">
+    <path d="M 419.160041 329.28024 
+L 444.307293 352.661635 
+L 452.8528 298.955201 
+L 436.251054 288.018886 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_83">
+    <path d="M 436.251054 288.018886 
+L 452.8528 298.955201 
+L 455.767513 243.74 
+L 442.08048 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_84">
+    <path d="M 442.08048 243.74 
+L 455.767513 243.74 
+L 452.8528 188.524799 
+L 436.251054 199.461114 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_85">
+    <path d="M 436.251054 199.461114 
+L 452.8528 188.524799 
+L 444.307293 134.818365 
+L 419.160041 158.19976 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_86">
+    <path d="M 419.160041 158.19976 
+L 444.307293 134.818365 
+L 430.713356 84.026644 
+L 391.972167 122.767833 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_87">
+    <path d="M 391.972167 122.767833 
+L 430.713356 84.026644 
+L 379.921635 70.432707 
+L 356.54024 95.579959 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_88">
+    <path d="M 356.54024 95.579959 
+L 379.921635 70.432707 
+L 326.215201 61.8872 
+L 315.278886 78.488946 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_89">
+    <path d="M 315.278886 78.488946 
+L 326.215201 61.8872 
+L 271 58.972487 
+L 271 72.65952 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_90">
+    <path d="M 271 72.65952 
+L 271 58.972487 
+L 215.784799 61.8872 
+L 226.721114 78.488946 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_91">
+    <path d="M 226.721114 78.488946 
+L 215.784799 61.8872 
+L 162.078365 70.432707 
+L 185.45976 95.579959 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_92">
+    <path d="M 185.45976 95.579959 
+L 162.078365 70.432707 
+L 111.286644 84.026644 
+L 150.027833 122.767833 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_93">
+    <path d="M 150.027833 122.767833 
+L 111.286644 84.026644 
+L 97.692707 134.818365 
+L 122.839959 158.19976 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_94">
+    <path d="M 122.839959 158.19976 
+L 97.692707 134.818365 
+L 89.1472 188.524799 
+L 105.748946 199.461114 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_95">
+    <path d="M 105.748946 199.461114 
+L 89.1472 188.524799 
+L 86.232487 243.74 
+L 99.91952 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_96">
+    <path d="M 99.91952 243.74 
+L 86.232487 243.74 
+L 89.1472 298.955201 
+L 105.748946 288.018886 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_97">
+    <path d="M 105.748946 288.018886 
+L 89.1472 298.955201 
+L 97.692707 352.661635 
+L 122.839959 329.28024 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_98">
+    <path d="M 122.839959 329.28024 
+L 97.692707 352.661635 
+L 111.286644 403.453356 
+L 150.027833 364.712167 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_99">
+    <path d="M 111.286644 403.453356 
+L 72.545455 442.194545 
+L 138.69697 442.194545 
+L 162.078365 417.047293 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_100">
+    <path d="M 162.078365 417.047293 
+L 138.69697 442.194545 
+L 204.848485 442.194545 
+L 215.784799 425.5928 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_101">
+    <path d="M 215.784799 425.5928 
+L 204.848485 442.194545 
+L 271 442.194545 
+L 271 428.507513 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_102">
+    <path d="M 271 428.507513 
+L 271 442.194545 
+L 337.151515 442.194545 
+L 326.215201 425.5928 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_103">
+    <path d="M 326.215201 425.5928 
+L 337.151515 442.194545 
+L 403.30303 442.194545 
+L 379.921635 417.047293 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_104">
+    <path d="M 379.921635 417.047293 
+L 403.30303 442.194545 
+L 469.454545 442.194545 
+L 430.713356 403.453356 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_105">
+    <path d="M 430.713356 403.453356 
+L 469.454545 442.194545 
+L 469.454545 376.04303 
+L 444.307293 352.661635 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_106">
+    <path d="M 444.307293 352.661635 
+L 469.454545 376.04303 
+L 469.454545 309.891515 
+L 452.8528 298.955201 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_107">
+    <path d="M 452.8528 298.955201 
+L 469.454545 309.891515 
+L 469.454545 243.74 
+L 455.767513 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_108">
+    <path d="M 455.767513 243.74 
+L 469.454545 243.74 
+L 469.454545 177.588485 
+L 452.8528 188.524799 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_109">
+    <path d="M 452.8528 188.524799 
+L 469.454545 177.588485 
+L 469.454545 111.43697 
+L 444.307293 134.818365 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_110">
+    <path d="M 444.307293 134.818365 
+L 469.454545 111.43697 
+L 469.454545 45.285455 
+L 430.713356 84.026644 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_111">
+    <path d="M 430.713356 84.026644 
+L 469.454545 45.285455 
+L 403.30303 45.285455 
+L 379.921635 70.432707 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_112">
+    <path d="M 379.921635 70.432707 
+L 403.30303 45.285455 
+L 337.151515 45.285455 
+L 326.215201 61.8872 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_113">
+    <path d="M 326.215201 61.8872 
+L 337.151515 45.285455 
+L 271 45.285455 
+L 271 58.972487 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_114">
+    <path d="M 271 58.972487 
+L 271 45.285455 
+L 204.848485 45.285455 
+L 215.784799 61.8872 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_115">
+    <path d="M 215.784799 61.8872 
+L 204.848485 45.285455 
+L 138.69697 45.285455 
+L 162.078365 70.432707 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_116">
+    <path d="M 162.078365 70.432707 
+L 138.69697 45.285455 
+L 72.545455 45.285455 
+L 111.286644 84.026644 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_117">
+    <path d="M 111.286644 84.026644 
+L 72.545455 45.285455 
+L 72.545455 111.43697 
+L 97.692707 134.818365 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_118">
+    <path d="M 97.692707 134.818365 
+L 72.545455 111.43697 
+L 72.545455 177.588485 
+L 89.1472 188.524799 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_119">
+    <path d="M 89.1472 188.524799 
+L 72.545455 177.588485 
+L 72.545455 243.74 
+L 86.232487 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_120">
+    <path d="M 86.232487 243.74 
+L 72.545455 243.74 
+L 72.545455 309.891515 
+L 89.1472 298.955201 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_121">
+    <path d="M 89.1472 298.955201 
+L 72.545455 309.891515 
+L 72.545455 376.04303 
+L 97.692707 352.661635 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_122">
+    <path d="M 97.692707 352.661635 
+L 72.545455 376.04303 
+L 72.545455 442.194545 
+L 111.286644 403.453356 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #a8d9eb; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_123">
+    <path d="M 271 243.74 
+L 211.503844 303.236156 
+L 228.929865 316.607612 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_124">
+    <path d="M 271 243.74 
+L 228.929865 316.607612 
+L 249.222896 325.01326 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_125">
+    <path d="M 271 243.74 
+L 249.222896 325.01326 
+L 271 327.88027 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_126">
+    <path d="M 271 243.74 
+L 271 327.88027 
+L 292.777104 325.01326 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_127">
+    <path d="M 271 243.74 
+L 292.777104 325.01326 
+L 313.070135 316.607612 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_128">
+    <path d="M 271 243.74 
+L 313.070135 316.607612 
+L 330.496156 303.236156 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_129">
+    <path d="M 271 243.74 
+L 330.496156 303.236156 
+L 343.867612 285.810135 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_130">
+    <path d="M 271 243.74 
+L 343.867612 285.810135 
+L 352.27326 265.517104 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_131">
+    <path d="M 271 243.74 
+L 352.27326 265.517104 
+L 355.14027 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_132">
+    <path d="M 271 243.74 
+L 355.14027 243.74 
+L 352.27326 221.962896 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_133">
+    <path d="M 271 243.74 
+L 352.27326 221.962896 
+L 343.867612 201.669865 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_134">
+    <path d="M 271 243.74 
+L 343.867612 201.669865 
+L 330.496156 184.243844 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_135">
+    <path d="M 271 243.74 
+L 330.496156 184.243844 
+L 313.070135 170.872388 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_136">
+    <path d="M 271 243.74 
+L 313.070135 170.872388 
+L 292.777104 162.46674 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_137">
+    <path d="M 271 243.74 
+L 292.777104 162.46674 
+L 271 159.59973 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_138">
+    <path d="M 271 243.74 
+L 271 159.59973 
+L 249.222896 162.46674 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_139">
+    <path d="M 271 243.74 
+L 249.222896 162.46674 
+L 228.929865 170.872388 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_140">
+    <path d="M 271 243.74 
+L 228.929865 170.872388 
+L 211.503844 184.243844 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_141">
+    <path d="M 271 243.74 
+L 211.503844 184.243844 
+L 198.132388 201.669865 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_142">
+    <path d="M 271 243.74 
+L 198.132388 201.669865 
+L 189.72674 221.962896 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_143">
+    <path d="M 271 243.74 
+L 189.72674 221.962896 
+L 186.85973 243.74 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_144">
+    <path d="M 271 243.74 
+L 186.85973 243.74 
+L 189.72674 265.517104 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_145">
+    <path d="M 271 243.74 
+L 189.72674 265.517104 
+L 198.132388 285.810135 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_146">
+    <path d="M 271 243.74 
+L 198.132388 285.810135 
+L 211.503844 303.236156 
+z
+" clip-path="url(#pcbbab51733)" style="fill: #ffffd1; stroke: #777777; stroke-width: 0.15; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m2b5c50316f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2b5c50316f" x="81.995671" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="81.995671" y="475.98375" transform="rotate(-0 81.995671 475.98375)">−0.6</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m2b5c50316f" x="144.997114" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="144.997114" y="475.98375" transform="rotate(-0 144.997114 475.98375)">−0.4</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m2b5c50316f" x="207.998557" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="207.998557" y="475.98375" transform="rotate(-0 207.998557 475.98375)">−0.2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m2b5c50316f" x="271" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="271" y="475.98375" transform="rotate(-0 271 475.98375)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m2b5c50316f" x="334.001443" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="334.001443" y="475.98375" transform="rotate(-0 334.001443 475.98375)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m2b5c50316f" x="397.002886" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="397.002886" y="475.98375" transform="rotate(-0 397.002886 475.98375)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m2b5c50316f" x="460.004329" y="462.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="460.004329" y="475.98375" transform="rotate(-0 460.004329 475.98375)">0.6</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="271" y="489.066563" transform="rotate(-0 271 489.066563)">x</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <defs>
+       <path id="m7ccc47a48d" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="432.744329" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="436.216204" transform="rotate(-0 45.7 436.216204)">−0.6</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="369.742886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="373.214761" transform="rotate(-0 45.7 373.214761)">−0.4</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="306.741443" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="310.213318" transform="rotate(-0 45.7 310.213318)">−0.2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="243.74" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="247.211875" transform="rotate(-0 45.7 247.211875)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="180.738557" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="184.210432" transform="rotate(-0 45.7 184.210432)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="117.737114" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="121.208989" transform="rotate(-0 45.7 121.208989)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m7ccc47a48d" x="52.7" y="54.735671" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: end" x="45.7" y="58.207546" transform="rotate(-0 45.7 58.207546)">0.6</text>
+     </g>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle" x="21.403125" y="243.74" transform="rotate(-90 21.403125 243.74)">y</text>
+    </g>
+   </g>
+   <g id="patch_147">
+    <path d="M 52.7 462.04 
+L 52.7 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_148">
+    <path d="M 489.3 462.04 
+L 489.3 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_149">
+    <path d="M 52.7 462.04 
+L 489.3 462.04 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_150">
+    <path d="M 52.7 25.44 
+L 489.3 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12px; font-family: 'Times New Roman'; text-anchor: middle" x="271" y="19.44" transform="rotate(-0 271 19.44)">Gmsh RectPin mesh</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_151">
+     <path d="M 435.3 75.857188 
+L 482.3 75.857188 
+Q 484.3 75.857188 484.3 73.857188 
+L 484.3 32.44 
+Q 484.3 30.44 482.3 30.44 
+L 435.3 30.44 
+Q 433.3 30.44 433.3 32.44 
+L 433.3 73.857188 
+Q 433.3 75.857188 435.3 75.857188 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_152">
+     <path d="M 437.3 41.44 
+L 457.3 41.44 
+L 457.3 34.44 
+L 437.3 34.44 
+z
+" style="fill: #ffffd1; stroke: #666666; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: start" x="465.3" y="41.44" transform="rotate(-0 465.3 41.44)">uo2</text>
+    </g>
+    <g id="patch_153">
+     <path d="M 437.3 55.579063 
+L 457.3 55.579063 
+L 457.3 48.579063 
+L 437.3 48.579063 
+z
+" style="fill: #ffb8d1; stroke: #666666; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: start" x="465.3" y="55.579063" transform="rotate(-0 465.3 55.579063)">zr</text>
+    </g>
+    <g id="patch_154">
+     <path d="M 437.3 69.718125 
+L 457.3 69.718125 
+L 457.3 62.718125 
+L 437.3 62.718125 
+z
+" style="fill: #a8d9eb; stroke: #666666; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: start" x="465.3" y="69.718125" transform="rotate(-0 465.3 69.718125)">h2o</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcbbab51733">
+   <rect x="52.7" y="25.44" width="436.6" height="436.6"/>
+  </clipPath>
+ </defs>
+</svg>

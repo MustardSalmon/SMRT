@@ -1,0 +1,18 @@
+# parameters for GMesh
+DEFAULT_BOUNDARY_GROUP_NAME = '_boundary'
+DEFAULT_INT_DATA_TYPE = 'int32'  # 'int16, int32, int64'
+DEFAULT_FLOAT_DATA_TYPE = 'fp64'  # 'fp16', 'fp32', 'fp64'
+
+# parameters for runtime
+CASE_NAME = 'SMRT'
+
+INIT = 'INITING'
+RUNNING = 'RUNNING'
+ERROR = 'ERROR'
+WARNING = 'WARNING'
+
+# parameters for math
+DEFAULT_BOUNDARY_OVERLAPPED_CRIT = 1e-5
+SQRT_3 = 1.7320508075688772
+SMALL_VALUE = 1e-3
+BIG_VALUE = 1e10

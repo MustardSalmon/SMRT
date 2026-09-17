@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use SMRT in your research, please cite this software and the relevant publications listed in docs/References.md."
+title: "SMRT: Gmsh-based preprocessing for two-dimensional Method of Characteristics neutron transport calculations"
+abstract: >-
+  SMRT is a Gmsh-based preprocessing tool that generates two-dimensional
+  computational meshes and characteristic-line information for use with the
+  ALPHA neutron lattice physics code. The current release supports square
+  and hexagonal pin-cell geometries with structured and automatic mesh modes.
+  SMRT does not include the neutron transport solver itself.
+type: software
+version: "1.0.0"
+date-released: 2026-09-17
+authors:
+  - name: "CaoWei"
+    affiliation: "ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University"
+keywords:
+  - Gmsh
+  - neutron transport
+  - method of characteristics
+  - lattice physics
+  - characteristic-line tracking
+  - mesh generation
+license: MIT
+# Add repository-code after the GitHub repository has been created, for example:
+# repository-code: https://github.com/<owner>/<repository>

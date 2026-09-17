@@ -1,0 +1,9 @@
+# SMRT v1.0.0 reference environment: Python 3.12.3
+# Versions below reproduce the current tested environment.
+gmsh==4.15.2
+numpy==1.26.4
+matplotlib==3.10.3
+h5py==3.11.0
+# SciPy is optional at runtime but included in the reference environment
+# for accelerated spatial searches.
+scipy==1.15.3
