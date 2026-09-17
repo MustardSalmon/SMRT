@@ -21,5 +21,4 @@ keywords:
   - characteristic-line tracking
   - mesh generation
 license: MIT
-# Add repository-code after the GitHub repository has been created, for example:
-# repository-code: https://github.com/<owner>/<repository>
+repository-code: https://github.com/MustardSalmon/SMRT

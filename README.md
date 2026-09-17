@@ -13,6 +13,8 @@ The software generates two-dimensional computational meshes and characteristic-l
 | Supported platforms | Windows and Linux |
 | Reference environment | Python 3.12.3 |
 
+Repository: [github.com/MustardSalmon/SMRT](https://github.com/MustardSalmon/SMRT)
+
 ## Current scope
 
 The initial open-source release supports:
