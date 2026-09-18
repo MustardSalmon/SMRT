@@ -2,7 +2,7 @@
 
 **SMRT** stands for **Simple MOC Ray-Tracing**. It is a Gmsh-based preprocessing tool for two-dimensional Method of Characteristics (MOC) neutron transport calculations.
 
-The software generates two-dimensional computational meshes and ray tracking information for use with the **ALPHA neutron lattice physics code** developed by the ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University. SMRT does **not** include the neutron transport solver itself. ALPHA reads the generated `.trk` file, stores the mesh and ray tracking data in arrays, and performs the MOC calculation.
+The software generates two-dimensional computational meshes and ray tracking information for use with the **ALPHA(Advanced Lattice Physics code based on Heterogeneous Architecture)** developed by the ALPHA Reactor Team, Zhejiang Institute of Modern Physics, School of Physics, Zhejiang University. SMRT does **not** include the neutron transport solver itself. ALPHA reads the generated `.trk` file, stores the mesh and ray tracking data in arrays, and performs the MOC calculation.
 
 | Item | Information                                                                         |
 | --- |-------------------------------------------------------------------------------------|
