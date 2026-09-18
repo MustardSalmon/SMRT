@@ -2,7 +2,7 @@
 
 **SMRT** stands for **Simple MOC Ray-Tracing**. It is a Gmsh-based preprocessing tool for two-dimensional Method of Characteristics (MOC) neutron transport calculations.
 
-The software generates two-dimensional computational meshes and characteristic-line information for use with the **ALPHA neutron lattice physics code** developed by the ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University. SMRT does **not** include the neutron transport solver itself. ALPHA reads the generated `.trk` file, stores the mesh and characteristic-line data in arrays, and performs the MOC calculation.
+The software generates two-dimensional computational meshes and ray tracking information for use with the **ALPHA neutron lattice physics code** developed by the ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University. SMRT does **not** include the neutron transport solver itself. ALPHA reads the generated `.trk` file, stores the mesh and ray tracking data in arrays, and performs the MOC calculation.
 
 | Item | Information                                                                         |
 | --- |-------------------------------------------------------------------------------------|
@@ -24,9 +24,9 @@ The initial open-source release supports:
 - structured mesh generation;
 - automatic Gmsh mesh generation;
 - material-region identification;
-- characteristic-line generation for multiple azimuthal directions;
+- ray tracking generation for multiple azimuthal directions;
 - full-cell and one-sixth symmetric tracking for supported hexagonal cases;
-- export of ALPHA-compatible characteristic-line data.
+- export of ALPHA-compatible ray tracking data.
 
 The current release is limited to square and hexagonal pin-cell examples. More complex geometry-generation modules have already been developed and will be released in future versions.
 
@@ -37,7 +37,7 @@ The current release is limited to square and hexagonal pin-cell examples. More c
 3. Generate a structured or automatic Gmsh mesh and save it as `.msh`.
 4. Read the mesh with `RayTracing.GmshParser`.
 5. Generate characteristic lines for the requested azimuthal directions.
-6. Export the mesh-region and characteristic-line information as an ALPHA `.trk` file.
+6. Export the mesh-region and ray tracking information as an ALPHA `.trk` file.
 7. Use the `.trk` file as input to ALPHA for the MOC neutron transport calculation.
 
 ## Repository structure
@@ -46,7 +46,7 @@ The current release is limited to square and hexagonal pin-cell examples. More c
 SMRT/
 ├── Driver/                  # Track-file export and transport data structures
 ├── GmshGeometryModeling/    # Materials, pin-cell geometry, mesh generation, and plotting
-├── RayTracing/              # Gmsh parsing and characteristic-line generation
+├── RayTracing/              # Gmsh parsing and ray tracking generation
 ├── examples/
 │   ├── HexPinAutomatic/
 │   ├── HexPinStructured/
@@ -85,7 +85,7 @@ The reference development environment uses Python 3.12.3. SciPy is included in t
 
 ## Running an example
 
-Each example is an independent input-card directory. Run the geometry/mesh generation first and then the characteristic-line tracking:
+Each example is an independent input-card directory. Run the geometry/mesh generation first and then the ray tracking:
 
 ```powershell
 cd examples/HexPinStructured
@@ -119,7 +119,7 @@ The following figures are generated directly from the four public test cases. Cl
 ## Input and output formats
 
 - `.msh`: native Gmsh mesh file containing mesh-format information, physical groups, nodes, elements, and—depending on the MSH version—geometry/topology metadata.
-- `.trk`: SMRT's ALPHA text-format output containing material-region information, region areas, azimuthal parameters, characteristic-line data, segment lengths, swept regions, and reflection/continuation identifiers.
+- `.trk`: SMRT's ALPHA text-format output containing material-region information, region areas, azimuthal parameters, ray tracking data, segment lengths, swept regions, and reflection/continuation identifiers.
 
 For the detailed file descriptions, see [FileFormats.md](docs/FileFormats.md) and [ALPHA_Interface.md](docs/ALPHA_Interface.md).
 
