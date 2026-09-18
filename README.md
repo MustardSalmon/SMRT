@@ -4,14 +4,14 @@
 
 The software generates two-dimensional computational meshes and characteristic-line information for use with the **ALPHA neutron lattice physics code** developed by the ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University. SMRT does **not** include the neutron transport solver itself. ALPHA reads the generated `.trk` file, stores the mesh and characteristic-line data in arrays, and performs the MOC calculation.
 
-| Item | Information |
-| --- | --- |
-| Version | 0.1.0 (initial release) |
-| Release date | 2026-09-17 |
-| Author | CaoWei |
-| Development group | ALPHA Group, Nuclear Reactor Physics, School of Physics, Zhejiang University |
-| Supported platforms | Windows and Linux |
-| Reference environment | Python 3.12.3 |
+| Item | Information                                                                         |
+| --- |-------------------------------------------------------------------------------------|
+| Version | 0.1.0 (initial release)                                                             |
+| Release date | 2026-09-17                                                                          |
+| Author | CaoWei                                                                              |
+| Development | ALPHA Reactor Team, Zhejiang Institute of Modern Physics, School of Physics, Zhejiang University, Hangzhou |
+| Supported platforms | Windows and Linux                                                                   |
+| Reference environment | Python 3.12.3                                                                       |
 
 Repository: [github.com/MustardSalmon/SMRT](https://github.com/MustardSalmon/SMRT)
 
